@@ -13,9 +13,9 @@
 };
 
 &i2c1 {
-  status = "disabled";
+  status = "okay";
 };
 
 &tps43 {
-  status = "disabled";
+  status = "okay";
 };
